@@ -20,7 +20,3 @@ Implement input validation and connect with user's bank account.
 Task 4: Currency Converter
 Convert currencies using real-time exchange rates.
 Provide a user-friendly interface for currency conversion.
-
-Task 5: Student Management System
-Manage students with Student and StudentManagementSystem classes.
-Design a user interface for interaction and data storage.
